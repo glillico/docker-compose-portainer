@@ -1,4 +1,4 @@
-# portainer
+# docker-compose-portainer
 
 A docker compose file for my portainer environment.
 
